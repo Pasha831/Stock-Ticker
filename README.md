@@ -10,3 +10,6 @@
 yfinance library = Yahoo! Finance service
 
 Dashboard provides a clear view on paterns of stocks.
+
+# My final assignment on IBM Cloud:
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/842c3102-bba1-4d7d-89c7-62de444fba1a/view?access_token=14f48aea00def78b929dd9c5cc91489b64eace692736858e0a282871606b49f4
